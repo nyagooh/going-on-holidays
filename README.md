@@ -3,6 +3,23 @@
 ## Overview
 This project focuses on developing a collaborative app designed to streamline the process of planning group holidays. The app aims to enhance communication, facilitate decision-making, and ensure that all group members have a voice in the planning process.
 
+
+## Cloning the project
+
+```bash
+git clone https://github.com/nyagooh/going-on-holidays
+```
+- Unzip zipped files
+```bash
+  - Affinitydiagram&Empathymap_maina_Anne.zip
+  - Ideation-maina-Ann.zip
+  - UserFlow-maina-Ann.zip
+
+  ```
+   - Install Figma to view the .fig file
+   ```bash
+    3.8 Mid-Fidelity Wireframes (Mobile) (Community)(1).fig
+    ```
 ## Project Components
 
 ### 1. User Research
